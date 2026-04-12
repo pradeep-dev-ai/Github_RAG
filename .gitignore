@@ -1,0 +1,12 @@
+rag
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+.env
+repo/
+db/
+.git
+.idea/
+.vscode/
+.DS_Store
